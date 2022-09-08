@@ -37,7 +37,7 @@ Activity: Acceptance and processing of faults in 1st and 2nd level support. Anal
   </a>
   
   <a href="#">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/xamarin_forms.svg" alt="html" style="vertical-align:top; margin:4px">
   </a>
   
 </p>
@@ -46,12 +46,8 @@ Activity: Acceptance and processing of faults in 1st and 2nd level support. Anal
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/norman-data-economist/">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-  
-   <a href="https://www.youtube.com/channel/UCMD6Uyi4O9htyHuNsbbTI5Q">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
