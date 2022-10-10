@@ -22,7 +22,7 @@
 
 <p align="left">
 
-  <a href="linkedin.com/in/paul-hartung-060aaa252">
+  <a href="https://www.linkedin.com/in/paul-hartung-060aaa252/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
