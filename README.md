@@ -25,22 +25,6 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
 </p>
-<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-</p>
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smil3MoreGH&theme=dark&show_icons=true&count_private=true">
-      <br><br>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Smil3MoreGH&theme=dark&hide_border=false">
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Smil3MoreGH&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
-    </td>
-  </tr>
-</table>
-</tbody></table>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
