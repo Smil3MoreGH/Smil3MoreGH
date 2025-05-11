@@ -38,6 +38,11 @@
   <a href="https://github.com/Smil3MoreGH">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Smil3MoreGH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Smil3MoreGH&layout=compact&langs_count=8&theme=algolia">
+    <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Smil3MoreGH&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
+  </a>
+</div>
   </a>
 </p>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
