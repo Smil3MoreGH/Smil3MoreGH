@@ -45,5 +45,4 @@
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
-<p>Last Edited on: 11/12/2020</p> 
+<p>Last Edited on: 11.05.2025</p>
