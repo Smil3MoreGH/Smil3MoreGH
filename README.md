@@ -1,6 +1,5 @@
   <p><img src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/sf_banner.png" alt="Paul Profile Banner SF"></p>
 <p><img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Paul</h2>
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
 🎓 &nbsp;I’m currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>
@@ -9,7 +8,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br>
 📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/hollow_knight.gif" align="right">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/hollow_knight.gif" align="right" width="150" height="150">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
