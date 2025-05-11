@@ -32,21 +32,21 @@
   </ul>
 </div>
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px;">
   <!-- Gmail -->
   <a href="mailto:paul.hart98@googlemail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" width="60" height="60" style="fill:#D14836; margin: 60 60px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" width="60" height="60" style="fill:#D14836;">
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/paul--hartung/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" width="60" height="60" style="fill:#0077B5; margin: 60 60px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" width="60" height="60" style="fill:#0077B5;">
   </a>
   
   <!-- Xing -->
   <a href="https://www.xing.com/profile/Paul_Hartung6" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xing.svg" alt="xing" width="60" height="60" style="fill:#006567; margin: 60 60px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xing.svg" alt="xing" width="60" height="60" style="fill:#006567;">
   </a>
-</p>
+</div>
 <hr>
 <p>Last Edited on: 11.05.2025</p>
