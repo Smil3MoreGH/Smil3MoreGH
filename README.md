@@ -1,5 +1,5 @@
   <p><img src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/sf_banner.png" alt="Paul Profile Banner SF"></p>
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Aditya</h2><p></p>
+<p><img alt="Night Coding" src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/hollow_knight.gif" width="40" align="left"></p><h2>Hey there! I’m Aditya</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
