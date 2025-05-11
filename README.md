@@ -48,5 +48,3 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xing.svg" alt="xing" width="60" height="60" style="fill:#006567;">
   </a>
 </div>
-<hr>
-<p>Last Edited on: 11.05.2025</p>
