@@ -26,25 +26,27 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
 </p>
 <!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
-<!-- icons and links -->
 <p align="center">
-  <a href="mailto:paul.hart98@googlemail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" height="50" width="50">
+  <!-- Gmail -->
+  <a href="mailto:paul.hart98@googlemail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" width="40" height="40" style="fill:#D14836; margin: 0 10px;">
   </a>
-  <a href="https://www.linkedin.com/in/paul--hartung/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="50" width="50">
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/paul--hartung/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" width="40" height="40" style="fill:#0077B5; margin: 0 10px;">
   </a>
-  <a href="https://www.xing.com/profile/Paul_Hartung6" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/xing.png" alt="xing" height="50" width="50">
+  
+  <!-- Xing -->
+  <a href="https://www.xing.com/profile/Paul_Hartung6" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xing.svg" alt="xing" width="40" height="40" style="fill:#006567; margin: 0 10px;">
   </a>
 </p>
-
 <hr>
 <p>Last Edited on: 11.05.2025</p>
