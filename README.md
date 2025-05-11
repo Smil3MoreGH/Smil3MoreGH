@@ -25,15 +25,26 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
 </p>
-<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<!-- icons and links -->
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&amp;logo=Pinterest&amp;logoColor=white"></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
+  <a href="mailto:paul.hart98@googlemail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" height="50" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/paul--hartung/" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="50" width="50">
+  </a>
+  <a href="https://www.xing.com/profile/Paul_Hartung6" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/xing.png" alt="xing" height="50" width="50">
+  </a>
 </p>
+
 <hr>
 <p>Last Edited on: 11.05.2025</p>
