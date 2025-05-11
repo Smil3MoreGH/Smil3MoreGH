@@ -27,13 +27,18 @@
 </p>
 <h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
-  <a href="https://github.com/Smil3MoreGH">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Smil3MoreGH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Smil3MoreGH&layout=compact&langs_count=8&theme=algolia">
-  </a>
-</div>
-  </a>
 </p>
+<table align="center">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&amp;theme=dark&amp;hide_border=false"> 
+</td><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
