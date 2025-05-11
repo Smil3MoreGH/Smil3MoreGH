@@ -32,7 +32,7 @@
   </ul>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; gap: 800px; align-items: center; margin-top: 20px;">
   <!-- Gmail -->
   <a href="mailto:paul.hart98@googlemail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" width="60" height="60" style="fill:#D14836;">
