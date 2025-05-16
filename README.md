@@ -9,6 +9,9 @@
 📊 &nbsp;I'm especially interested in Big Data and machine learning as driving forces of the technological future.<br>
 ✉️ &nbsp;You can reach me at <a href="mailto:paul.hart98@googlemail.com">paul.hart98@googlemail.com</a>!
 </p>
+<h3>🧠 Tech & Programming Skills</h3>
+<p>
+Over the years, I’ve worked with a wide range of technologies across different domains — from low-level programming to cloud infrastructure and modern software development frameworks. My skill set includes:<br><br>
 <p>
   <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++">&nbsp;
   <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120" alt="C#">&nbsp;
