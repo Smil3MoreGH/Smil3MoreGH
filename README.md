@@ -4,7 +4,7 @@
 <p>
 💡 &nbsp;I’ve been fascinated by technology since childhood, with a strong passion for IT and exploring new technologies.<br>
 🧑‍💼 &nbsp;During my apprenticeship as an IT specialist in system integration, this passion solidified and set me on a clear path.<br>
-🎓 &nbsp;Currently, I’m pursuing a Master's degree in IT, after earning my Bachelor’s in Intelligent Systems Design at the University of Applied Sciences Hamm-Lippstadt.<br>
+🎓 &nbsp;Currently, I’m pursuing a Master's degree in Computer Science, after earning my Bachelor’s in Intelligent Systems Design at the University of Applied Sciences Hamm-Lippstadt.<br>
 🔐 &nbsp;My focus lies in IT software development, security and system integration, strengthened through internships and professional experience.<br>
 📊 &nbsp;I'm especially interested in Big Data and machine learning as driving forces of the technological future.<br>
 ✉️ &nbsp;You can reach me at <a href="mailto:paul.hart98@googlemail.com">paul.hart98@googlemail.com</a>!
