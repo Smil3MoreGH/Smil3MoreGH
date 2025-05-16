@@ -1,15 +1,15 @@
   <p><img src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/sf_banner.png" alt="Paul Profile Banner SF"></p>
 <p><img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Paul</h2>
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I’m currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>
-🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/hollow_knight.gif" align="right" width="150" height="150">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
+<p>
+💡 &nbsp;I’ve been fascinated by technology since childhood, with a strong passion for IT and exploring new technologies.<br>
+🧑‍💼 &nbsp;During my apprenticeship as an IT specialist in system integration, this passion solidified and set me on a clear path.<br>
+🎓 &nbsp;Currently, I’m pursuing a Master's degree in IT Security Networks and Systems, after earning my Bachelor’s in Intelligent Systems Design at the University of Applied Sciences Hamm-Lippstadt.<br>
+🔐 &nbsp;My focus lies in IT security, software development, and system integration, strengthened through internships and professional experience.<br>
+📊 &nbsp;I'm especially interested in Big Data and machine learning as driving forces of the technological future.<br>
+🤝 &nbsp;Let’s connect and collaborate on innovative projects and cutting-edge solutions in the evolving IT landscape.<br>
+✉️ &nbsp;You can reach me at <a href="mailto:paul.hart98@googlemail.com">paul.hart98@googlemail.com</a>!
+</p>
 <p>
   <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++">&nbsp;
   <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120" alt="C#">&nbsp;
