@@ -1,6 +1,6 @@
   <p><img src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/sf_banner.png" alt="Paul Profile Banner SF"></p>
 <p><img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Paul</h2>
-<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
+<h3>About me:</h3>
 <p>
 💡 &nbsp;I’ve been fascinated by technology since childhood, with a strong passion for IT and exploring new technologies.<br>
 🧑‍💼 &nbsp;During my apprenticeship as an IT specialist in system integration, this passion solidified and set me on a clear path.<br>
@@ -9,7 +9,7 @@
 📊 &nbsp;I'm especially interested in Big Data and machine learning as driving forces of the technological future.<br>
 ✉️ &nbsp;You can reach me at <a href="mailto:paul.hart98@googlemail.com">paul.hart98@googlemail.com</a>!
 </p>
-<h3>🧠 Tech & Programming Skills</h3>
+<h3>Tech & Programming Skills</h3>
 <p>
 Over the years, I’ve worked with a wide range of technologies across different domains — from low-level programming to cloud infrastructure and modern software development frameworks. My skill set includes:<br><br>
 <p>
