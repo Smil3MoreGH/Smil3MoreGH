@@ -1,6 +1,6 @@
   <p><img src="https://raw.githubusercontent.com/Smil3MoreGH/Smil3MoreGH/refs/heads/main/sf_banner.png" alt="Paul Profile Banner SF"></p>
 <p><img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Paul</h2>
-<h3>About me:</h3>
+<h3>About me</h3>
 <p>
 💡 &nbsp;I’ve been fascinated by technology since childhood, with a strong passion for IT and exploring new technologies.<br>
 🧑‍💼 &nbsp;During my apprenticeship as an IT specialist in system integration, this passion solidified and set me on a clear path.<br>
