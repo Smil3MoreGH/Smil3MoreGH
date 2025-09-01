@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>
-    Hi, I’m Paul 👋 — passionate about software development and modern technologies.<br>
+    Hi, I’m Paul — passionate about software development and modern technologies.<br>
     🌐 Visit my website:<br><br>
     <a href="https://paulhartung.de" target="_blank">
       <img src="https://img.shields.io/badge/-paulhartung.de-05122A?style=flat&logo=google-chrome&logoColor=4285F4" alt="Website">
