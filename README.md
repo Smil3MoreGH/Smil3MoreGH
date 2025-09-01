@@ -1,7 +1,7 @@
 <!-- About Me -->
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h2 style="display: inline-block">About Me</h2></summary>
+    <summary><h2 style="display: inline-block">About Me 👋</h2></summary>
   </ul>
 </div>
 
