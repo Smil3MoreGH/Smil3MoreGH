@@ -7,16 +7,6 @@
 
 <div align="center">
   <p>
-    Hi, I’m Paul — passionate about software development and modern technologies.<br>
-    🌐 Visit my website:<br><br>
-    <a href="https://paulhartung.de" target="_blank">
-      <img src="https://img.shields.io/badge/-paulhartung.de-05122A?style=flat&logo=google-chrome&logoColor=4285F4" alt="Website">
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <p>
     Over the years, I’ve worked with a wide range of technologies across different domains — 
     from programming to cloud infrastructure and modern software development frameworks. 
     My skill set includes:<br><br>
