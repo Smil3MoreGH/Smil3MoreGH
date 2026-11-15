@@ -1,5 +1,4 @@
-# Put this file at .github/workflows/snake.yml in your profile repo (USERNAME/USERNAME).
-# It generates the contribution snake once a day and pushes it to the "output" branch.
+# Generates the contribution snake once a day and pushes it to the "output" branch.
 name: Generate contribution snake
 
 on:
