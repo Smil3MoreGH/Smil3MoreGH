@@ -55,33 +55,39 @@ flowchart LR
 
 <br />
 
-## 🎯 Side project: ScoreMate
+### 🎯 Side project: ScoreMate
 
 <table>
   <tr>
     <td width="62%" valign="top">
 
 **ScoreMate** is a darts scoring app I build in my free time, out of personal interest and because I play darts myself.
-It's a simple, clean way to keep score and track your games and stats, built with **Flutter & Dart**.
+It's a simple, clean way to keep score and track your games and stats.
 
-It's my playground for everything that has nothing to do with clusters: UI/UX, mobile development and shipping a
-real product end to end.
+**Built with** React & TypeScript, shipped to Android via Capacitor, with a shared scoring core for all game rules and stats.
 
-<a href="https://www.scoremate.de"><img src="https://img.shields.io/badge/Try%20it%20%E2%86%92%20scoremate.de-E4405F?style=for-the-badge&logo=flutter&logoColor=white" alt="Try ScoreMate" /></a>
+**🤖 AutoMate (beta): camera auto-scoring.** Put your phone in front of the board, tap four calibration points, and play.
+The app detects every dart on its own, fully on-device:
+
+- &nbsp;**Own detection model:** RF-DETR fine-tuned with PyTorch on ~22k curated images (dedup, geometry checks, leak-free group splits), trained locally on an AMD GPU (ROCm, BF16)
+- &nbsp;**On-device inference:** exported to LiteRT and parity-tested against PyTorch, ~0.7 s per frame on a Pixel 8 Pro, no cloud
+- &nbsp;**Computer vision pipeline:** CameraX stream, frame alignment against board shake, change detection, model-confirmed new darts
+- &nbsp;**Measured, not guessed:** own labeling tool and evaluation in millimetres and board fields on real phone footage
+
+<a href="https://www.scoremate.de"><img src="https://img.shields.io/badge/Try%20it%20%E2%86%92%20scoremate.de-E4405F?style=for-the-badge&logo=react&logoColor=white" alt="Try ScoreMate" /></a>
 
   </td>
     <td width="38%" align="center" valign="middle">
-      <!-- TODO: add a screenshot, e.g. ./assets/scoremate.png -->
       <a href="https://www.scoremate.de">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, Android" />
+        <img src="https://skillicons.dev/icons?i=react,ts,androidstudio&perline=3" alt="React, TypeScript, Android" />
+        <br />
+        <img src="https://skillicons.dev/icons?i=py,pytorch,opencv&perline=3" alt="Python, PyTorch, OpenCV" />
       </a>
-      <br /><sub><b>Flutter · Dart · Android</b></sub>
+      <br /><sub><b>React · TypeScript · Capacitor · Android</b></sub>
+      <br /><sub><b>PyTorch · RF-DETR · LiteRT · Computer Vision</b></sub>
     </td>
   </tr>
 </table>
-
-> [!TIP]
-> Play darts? Give **[ScoreMate](https://www.scoremate.de)** a try, and feel free to open an issue or send me feedback 🎯
 
 <br />
 
@@ -139,18 +145,18 @@ real product end to end.
 
 <br />
 
-## 🚀 More things I've built
+## More things I've built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ PARAY Ray Tracer Modernization</h4>
+      <h4>🎓 PARAY Ray Tracer Modernization</h4>
       <sub>Master's thesis</sub><br />
       Parallelized a legacy ray tracer with OpenMP and modernized its build system for a significant speedup on modern CPUs.<br /><br />
       <img src="https://skillicons.dev/icons?i=c,cpp&perline=2" height="28" alt="C, C++" />
     </td>
     <td width="50%" valign="top">
-      <h4>🎣 ML for Phishing Defense</h4>
+      <h4>🎓 ML for Phishing Defense</h4>
       <sub>Bachelor's thesis</sub><br />
       Evaluated and compared ML models for detecting phishing emails, with NLP-based feature engineering.<br /><br />
       <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&perline=3" height="28" alt="Python, TensorFlow, scikit-learn" />
@@ -190,7 +196,7 @@ real product end to end.
      Footer
      ============================================================ -->
 <p align="center">
-  <b>Let's talk about platforms, AI or darts.</b><br />
+  <b>Contact:</b><br />
   <a href="https://paulhartung.de">paulhartung.de</a> · <a href="https://www.linkedin.com/in/paul--hartung">LinkedIn</a>
 </p>
 
